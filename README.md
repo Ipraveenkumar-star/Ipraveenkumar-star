@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 <!-- Profile views + social badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Ipraveenkumar-star&label=Profile+Views&color=6C63FF&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/praveen-kumar-i-mtech-softwareengineer-vit)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat&logo=globe)](https://YOUR_PORTFOLIO_URL)
-[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:praveenkumar.i2023@vitstudent.ac.in)
 
 </div>
 
