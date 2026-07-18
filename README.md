@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!-- Profile views + social badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Ipraveenkumar-star&label=Profile+Views&color=6C63FF&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/praveen-kumar-i-mtech-softwareengineer-vit/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat&logo=globe)](https://YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat&logo=globe)](https://ipkportfolio-08.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:praveenkumar.i2023@vitstudent.ac.in)
 
 </div>
@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 ```dart
 class PraveenKumar {
-  final String role     = "Aspiring Software Developer";
+  final String role     = "Aspiring Software Engineer";
   final String focus    = "Flutter · Android (Kotlin) · REST APIs";
-  final String location = "Chennai, India 🇮🇳";
+  final String location = "Vellore, India 🇮🇳";
   final String learning = "Flutter animations, Firebase, Clean Architecture";
   final String goal     = "Land my first mobile dev role 🎯";
   final String superpower = "Quick learner — I pick up anything fast";
@@ -55,16 +55,47 @@ class PraveenKumar {
 
 ## 🛠️ Tech Stack
 
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Cloud & Deployment
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 ### Backend & APIs
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### Tools & Platforms
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
@@ -90,7 +121,10 @@ class PraveenKumar {
 |---------|------------|------|------|
 | 🚂 Railone Booking System | Train booking UI with PDF download | HTML, JS | [View](https://github.com/Ipraveenkumar-star/Railone-Booking-System) |
 | 🎮 Nova Drift Games | Browser-based game website | JavaScript | [View](https://github.com/Ipraveenkumar-star/NOVA-DRIFT-GAMES) |
-| 💼 Portfolio Vault | Personal portfolio site | JavaScript | [View](https://github.com/Ipraveenkumar-star/portfoliovault) |
+| 💼 Portfolio Vault | Personal portfolio site | HTML | [View](https://github.com/Ipraveenkumar-star/PortfolioIPK) |
+| 💼 Nexus Forms |  site | JavaScript | [View](https://github.com/Ipraveenkumar-star/NexusForms) |
+| 💼 Marvel Movies |  site | HTML | [View](https://github.com/Ipraveenkumar-star/Mr.Marvel) |
+| 💼 Secret Birthday wish |  site | HTML | [View](https://github.com/Ipraveenkumar-star/BirthdayWish) |
 | 📱 *Coming soon* | Flutter mobile app | Flutter, Dart | 🔨 In progress |
 
 ---
