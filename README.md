@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align="center">
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0F172A&text=I PRAVEEN KUMAR &fontColor=38BDF8&fontSize=72&animation=twinkling&fontAlignY=40&desc=Building%20Scalable%20Web%20Applications&descAlignY=60&descSize=22"
-/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=290&color=gradient&customColorList=2,6,12,20&text=PRAVEEN%20KUMAR&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI%20Enthusiast&descAlignY=58&descSize=22"/>
+
+</div>
 <!-- Animated header -->
 <img
 src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,12,20&text=I PRAVEEN KUMAR &fontColor=ffffff&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI%20Builder&descAlignY=60&descSize=24"
