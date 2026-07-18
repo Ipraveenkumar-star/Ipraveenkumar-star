@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0F172A&text=I PRAVEEN KUMAR &fontColor=38BDF8&fontSize=72&animation=twinkling&fontAlignY=40&desc=Building%20Scalable%20Web%20Applications&descAlignY=60&descSize=22"
+/>
 <!-- Animated header -->
 <img
 src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,12,20&text=I PRAVEEN KUMAR &fontColor=ffffff&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI%20Builder&descAlignY=60&descSize=24"
