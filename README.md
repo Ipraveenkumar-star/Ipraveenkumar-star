@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48CAE4&height=200&section=header&text=I%20Praveen%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Flutter%20%7C%20Android&descAlignY=58&descAlign=50" width="100%" />
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0F172A&text=IRONMAN&fontColor=38BDF8&fontSize=72&animation=twinkling&fontAlignY=40&desc=Building%20Scalable%20Web%20Applications&descAlignY=60&descSize=22"
+/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
