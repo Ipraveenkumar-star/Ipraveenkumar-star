@@ -18,13 +18,16 @@ Here are some ideas to get you started:
 
 <!-- Animated header -->
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0F172A&text=IRONMAN&fontColor=38BDF8&fontSize=72&animation=twinkling&fontAlignY=40&desc=Building%20Scalable%20Web%20Applications&descAlignY=60&descSize=22"
+src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,12,20&text=IRONMAN&fontColor=ffffff&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI%20Builder&descAlignY=60&descSize=24"
 />
 
 <!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%93%B1;Flutter+%2B+Android+%7C+Kotlin+%2B+Dart;Fast+learner%2C+even+faster+builder+%F0%9F%9A%80;Skills+over+scores%2C+always+%F0%9F%92%AA" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=25&duration=4000&pause=1000&color=1D4ED8&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;AI+%26+Machine+Learning+Explorer;Building+Real-World+Solutions;Clean+Code+%7C+Scalable+Architecture"
+    alt="Typing SVG"
+  />
+</p>
 
 <br/>
 
