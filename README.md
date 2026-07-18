@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- Animated header -->
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,12,20&text=IRONMAN&fontColor=ffffff&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI%20Builder&descAlignY=60&descSize=24"
+src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,12,20&text=I PRAVEEN KUMAR &fontColor=ffffff&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI%20Builder&descAlignY=60&descSize=24"
 />
 
 <!-- Typing animation -->
@@ -136,18 +136,25 @@ class PraveenKumar {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ipraveenkumar-star&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ipraveenkumar-star&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+<h2 align="center">GitHub Statistics</h2>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ipraveenkumar-star&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ipraveenkumar-star&show_icons=true&theme=default&hide_border=true"/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ipraveenkumar-star&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ipraveenkumar-star&layout=compact&theme=default&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="89%" src="https://streak-stats.demolab.com?user=Ipraveenkumar-star&theme=default&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ipraveenkumar-star&theme=flat&no-frame=true&column=7"/>
+</p>
+
+<P align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ipraveenkumar-star&theme=github"/>
+</p>
 
 ---
 
@@ -162,5 +169,7 @@ I pick up new technologies fast — not because I memorize docs, but because I d
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:48CAE4,100:6C63FF&height=100&section=footer" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&section=footer&color=gradient&customColorList=24,20,12,6,2&text=Thanks%20for%20Visiting%20My%20Profile&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+
 </div>
