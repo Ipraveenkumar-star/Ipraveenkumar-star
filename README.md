@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=290&color=gradient&customColorList=2,6,12,20&text=PRAVEEN%20KUMAR&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI%20Enthusiast&descAlignY=58&descSize=22"/>
+</div>
 
-
+<div align="center">
 <!-- Animated header -->
 <img
 src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,12,20&text=I PRAVEEN KUMAR &fontColor=ffffff&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI%20Builder&descAlignY=60&descSize=24"
@@ -36,7 +37,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient
 </p>
 
 <br/>
-
+<div align="center">
 <!-- Profile views + social badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Ipraveenkumar-star&label=Profile+Views&color=6C63FF&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/praveen-kumar-i-mtech-softwareengineer-vit/)
